@@ -1,0 +1,11 @@
+name: Foods
+version: 1.0
+main: dev.extrreme.foods.FoodsPlugin
+authors: [Extrreme]
+description: A simple extra foods plugin.
+website: www.extrreme.dev
+
+commands:
+  food:
+    description: General food command.
+    usage: /<command>
